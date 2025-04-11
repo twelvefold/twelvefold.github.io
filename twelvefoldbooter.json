@@ -1,0 +1,6 @@
+{
+  "fetchFromOnline":true,
+  "onlineConfigUrl":"https://twelvefold.github.io/twelvefoldbooter.json",
+  "incompatiblePackages":[],
+  "incompatibleMods":[]
+}
